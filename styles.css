@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+.main-container {
+    background-color: black;
+}
+h1 {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
